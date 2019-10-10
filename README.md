@@ -8,10 +8,10 @@
 
 ### Contenido:
  - Función para hallar la dinamica de un sistema dado su estado inicial y un tiempo (clicks).
-   ´´´
+   ```
     dinamica_del_sistema(sistema, estado_inicial, clicks)
     
-   ´´´
+   ```
  - Función para ensamblar dos sistemas.
  - Simulador del experimento de la doble rendija variable
  
