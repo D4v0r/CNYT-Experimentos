@@ -13,6 +13,13 @@
     
    ```
  - Función para ensamblar dos sistemas.
+   ```
+    ensamblar_sistemas (sistema_A, estado_inicial_A, sistema_B, estado_inicial_B, clicks)
+    
+   ```
  - Simulador del experimento de la doble rendija variable
- 
+   ```
+    multiples_rendijas_cuantico(num_rendijas, num_blancos_pared, vector_probabilidad)
+   
+   ```
  
