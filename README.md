@@ -1,6 +1,23 @@
 # CNYT-Experimentos
 ## Programa simulación de lo clásico a lo cuántico
 
+- Universidad: Escuela Colombiana de Ingenieria Julio Garavito.
+- Curso: CNYT(Ciencias Naturales y Tecnología)
+- Grupo: 3
+
+
+
+
+
+Texto guia: QUANTUM COMPUTING FOR
+COMPUTER SCIENTISTS.  
+
+
+### Autor: Davor Cortés
+### 2019-2
+
+
+
 ### Prerequisitos:
  - Tener instalado python 3.7 o versiones mayores
  - Tener instalada la distribución de anaconda o en su defecto numpy y matplotlib.
