@@ -8,16 +8,6 @@
 
 
 
-
-Texto guia: QUANTUM COMPUTING FOR
-COMPUTER SCIENTISTS.  
-
-
-### Autor: Davor Cortés
-### 2019-2
-
-
-
 ### Prerequisitos:
  - Tener instalado python 3.7 o versiones mayores
  - Tener instalada la distribución de anaconda o en su defecto numpy y matplotlib.
@@ -39,4 +29,12 @@ COMPUTER SCIENTISTS.
     multiples_rendijas_cuantico(num_rendijas, num_blancos_pared, vector_probabilidad)
    
    ```
+ ### Acerca De
  
+ Texto guia: QUANTUM COMPUTING FOR
+COMPUTER SCIENTISTS.  
+
+
+### Autor: Davor Cortés
+### 2019-2
+
