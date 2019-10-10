@@ -1,9 +1,9 @@
 # CNYT-Experimentos
 ## Programa simulación de lo clásico a lo cuántico
 
-    - Universidad: Escuela Colombiana de Ingenieria Julio Garavito.
-    - Curso: CNYT(Ciencias Naturales y Tecnología)
-    - Grupo: 3
+   - Universidad: Escuela Colombiana de Ingenieria Julio Garavito.
+   - Curso: CNYT(Ciencias Naturales y Tecnología)
+   - Grupo: 3
 
 
 
