@@ -3,7 +3,7 @@
 
 
 
-### Prerequisitos:
+### Prerrequisitos:
  - Tener instalado python 3.7 o versiones mayores
  - Tener instalada la distribución de anaconda o en su defecto numpy y matplotlib.
  - Mantener el archivo complejos.py en la carpeta donde quiera ejecutar el archivo experimentos.py
