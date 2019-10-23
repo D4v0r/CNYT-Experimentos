@@ -29,6 +29,7 @@
    - Universidad: Escuela Colombiana de Ingenieria Julio Garavito.
    - Curso: CNYT(Ciencias Naturales y Tecnología)
    - Grupo: 3
+   - Proyecto 3
 
  
  Texto guia: QUANTUM COMPUTING FOR
